@@ -1,0 +1,15 @@
+cls
+dir
+cd
+mkdir / md - make dir
+tree - show a tree of all dir
+rmdir / "switch" "directory name"n
+del - delete files 
+move "filename.extension" "dest" n
+type "file" - shows the content of file
+attrib - shows attribute of file
+attrib + - sets atrrib of file 
+attrib R - read only          h - hidden file
+WILDCARDS
+*.* - all char
+? - single char
